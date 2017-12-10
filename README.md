@@ -1,6 +1,6 @@
 ![serverless](https://github.com/likeitresource/run_serverless_in_few_minutes/blob/master/images/serverless.png)
 
-# 10分鐘建置 Serverless 服務
+# 10分鐘建置一個 Serverless OTP 服務
 
 有時只想後端有個服務接口，來接收外部的請求。於是就開始安裝OS、建置運作環境、維護環境...:expressionless:
 
