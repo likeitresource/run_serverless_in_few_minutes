@@ -8,7 +8,7 @@
 
 Serverless 是抽象概念，並不是說沒有 Server了，而是讓使用者可以更專注於功能品質，免於維護服務器。Serverless 是一個 event-driven architectures，開發人員可以開發許多功能，提供外部事件來觸發。例如 CI/CD pipeline，或是現在物聯網世界內的小 Sensor。
 
-本文為一個快速引導，使用 [OpenFaaS](https://github.com/openfaas/faas) 來建置、實作一個基礎的 Serverless範例。
+本文為一個快速引導，使用 [OpenFaaS](https://github.com/openfaas/faas) 來建置、實作一個基礎的產生 OTP Code Serverless範例。
 
 ## 前置作業: 準備一台主機或是虛擬機
 
