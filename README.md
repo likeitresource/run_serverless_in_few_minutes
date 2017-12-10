@@ -244,3 +244,7 @@ OpenFaaS 使用 [Prometheus](https://prometheus.io/) 進行監控數據的採集
 
 ![serverless](https://github.com/likeitresource/run_serverless_in_few_minutes/blob/master/images/prometheus.png)
 
+
+## 參考資料
+
+* [Your first serverless Python function with OpenFaaS](https://blog.alexellis.io/first-faas-python-function/)
